@@ -5,7 +5,7 @@ run-name: ${{ github.action }} is testing out GitHub Actions 🚀
 on:
   push:
     branches:
-      - dev
+      - main
 
 jobs:
   Explore-GitHub-Actions:

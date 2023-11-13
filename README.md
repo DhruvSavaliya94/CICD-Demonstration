@@ -1,5 +1,7 @@
 # CI/CD - Continuous Integration / Continuous Deployment
 
+**Tech Stack:** Git, GitHub, YAML, Actions, Azure DevOps Pipeline
+
 ## CI, or Continuous Integration:
 
 This is like the prep chef in a kitchen. Every time a developer commits new code, CI is there to automatically grab it, mix it with the rest of the codebase, and ensure that everything still works together seamlessly. It's all about testing early and often. Imagine it saying, "New code? Let me test that for you!"
